@@ -1,6 +1,4 @@
 {
-	"homepage": "https://rezamehdipour.ir/enfold",
-	"name": "enfold",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
